@@ -1,20 +1,9 @@
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Virtual Environment
-venv/
-env/
-.env
+# Node modules (if you're using npm)
+node_modules/
 
 # IDE files
 .vscode/
 .idea/
-
-# Heroku
-*.pyc
-staticfiles/
 
 # Logs
 *.log
